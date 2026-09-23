@@ -1,0 +1,5 @@
+# robots.txt — Skin Aesthetic Clinic
+User-agent: *
+Allow: /
+
+Sitemap: https://umairdev76.github.io/skin-aesthetic-clinic/sitemap.xml
